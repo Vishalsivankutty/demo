@@ -1,0 +1,25 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{BB75EA31-41E8-41F9-976D-E8B2ED788D04}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+      <string>6b8ff9c0-e6a0-4ef1-97cf-b2009b3bbd8e</string>
+      <string>2b63117b-7587-4845-ba5f-d1c7536deed2</string>
+      <string>25d2fe08-dfde-4343-ae08-2c0515dde6dc</string>
+      <string>0aaeab62-081a-41e3-8b29-a27a7a0505f8</string>
+      <string>df00e750-df35-44ec-b506-5ed32cb1e4e1</string>
+      <string>79cda5ef-784b-4f4d-ae44-9dd7db790f7d</string>
+      <string>c4a71f41-c92a-4b14-ae72-c9c063e95aa9</string>
+      <string>272b8de2-0062-45b5-a669-46319d4a7849</string>
+      <string>3d101d4f-c41b-41d0-b9dc-d19dde6f2f27</string>
+      <string>7242cf8f-199d-4a57-9f38-c67a03b47f9b</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution DEstimator[Solution Items[]DEstimator[Functions[ApplicationFunction[EstimateView[]HomeView[]TakeoffView[LoadPDF[]Palette[AddCostComponent[]ComponentInfoWindow[]TakeoffItem[Details[Area[]Count[]]]]]]GeneralFunction[]]Repository[GeneralRepository[]]TestScripts[ApplicationTestscript[HomeView[]TakeoffView[LoadPDF[]Palette[AddCostComponent[LineItem[]]ComponentInfo[]TakeoffItem[Details[Area[]Count[]]UserProperties[]]]]]GeneralTestscript[]]]]]&#xD;&#xA;Solution DEstimator&#xD;&#xA;Solution DEstimator" />
+  <StartupProject value="{BB75EA31-41E8-41F9-976D-E8B2ED788D04}" />
+</Properties>

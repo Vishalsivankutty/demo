@@ -1,0 +1,82 @@
+{
+  "RanorexSuites": [
+    {
+      "Id": "bb75ea31-41e8-41f9-976d-e8b2ed788d04/2d9a61a6-2d29-4bc1-8e2a-c7fff3061bc0",
+      "Pid": "40bcda6e-258a-4b63-93fe-a9bf41a591bd/bb75ea31-41e8-41f9-976d-e8b2ed788d04",
+      "Name": "TakeoffView"
+    }
+  ],
+  "CaseFields": [],
+  "ResultFields": [],
+  "TestRailProject": {
+    "Id": "P4",
+    "Pid": null,
+    "Name": "DEstimator",
+    "BaseUri": "https://sampletestrail123.testrail.io/",
+    "ProjectSuiteMode": 3,
+    "ProjectCustomizations": {
+      "TemplateId": 1,
+      "CaseTypeId": 3
+    }
+  },
+  "Projects": [
+    {
+      "Rx": {
+        "Id": "40bcda6e-258a-4b63-93fe-a9bf41a591bd/bb75ea31-41e8-41f9-976d-e8b2ed788d04",
+        "Pid": "40bcda6e-258a-4b63-93fe-a9bf41a591bd/40bcda6e-258a-4b63-93fe-a9bf41a591bd",
+        "Name": "DEstimator"
+      },
+      "Tr": null
+    }
+  ],
+  "TestSuites": [
+    {
+      "Rx": {
+        "Id": "bb75ea31-41e8-41f9-976d-e8b2ed788d04/2d9a61a6-2d29-4bc1-8e2a-c7fff3061bc0",
+        "Pid": "40bcda6e-258a-4b63-93fe-a9bf41a591bd/bb75ea31-41e8-41f9-976d-e8b2ed788d04",
+        "Name": "TakeoffView"
+      },
+      "Tr": {
+        "Id": "S4",
+        "Pid": "P4",
+        "Name": "TakeoffView"
+      }
+    }
+  ],
+  "Sections": [
+    {
+      "Rx": null,
+      "Tr": {
+        "Id": "G6",
+        "Pid": "S4",
+        "Name": "TakeoffView"
+      }
+    },
+    {
+      "Rx": {
+        "Id": "2d9a61a6-2d29-4bc1-8e2a-c7fff3061bc0/617653e5-a7c1-4dac-bd16-d00dbf7f2006",
+        "Pid": "bb75ea31-41e8-41f9-976d-e8b2ed788d04/2d9a61a6-2d29-4bc1-8e2a-c7fff3061bc0",
+        "Name": "2D"
+      },
+      "Tr": {
+        "Id": "G7",
+        "Pid": "S4",
+        "Name": "2D"
+      }
+    }
+  ],
+  "Cases": [
+    {
+      "Rx": {
+        "Id": "2d9a61a6-2d29-4bc1-8e2a-c7fff3061bc0/0e83a28a-c65a-4185-bfa6-579cb91466eb",
+        "Pid": "2d9a61a6-2d29-4bc1-8e2a-c7fff3061bc0/617653e5-a7c1-4dac-bd16-d00dbf7f2006",
+        "Name": "TakeoffView_2D_able_to_modify_area_line_width"
+      },
+      "Tr": {
+        "Id": "C27",
+        "Pid": "G7",
+        "Name": "TakeoffView_2D_able_to_modify_area_line_width"
+      }
+    }
+  ]
+}
